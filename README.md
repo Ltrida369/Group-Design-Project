@@ -5,6 +5,7 @@ A university project focused on designing and developing a mobile application to
 My contribution:
 
 --Sprint 1--
+
 "David Wellignton" in Personas
 
 --Sprint 3--
